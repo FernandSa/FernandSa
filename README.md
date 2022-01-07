@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working Support (N1, N2 and N3)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, microservices in Node.js and Pyton...
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play games, play guitar, edit and record video and take pictures and other things...
 
 <div align="center">
